@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap');
+
+html, body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    box-sizing:border-box;
+}
+
+.hero-background {
+    background-image: url('https://d33wubrfki0l68.cloudfront.net/b48d3f70dffd76bf3152ad04e2cbb1261ef589c9/header.1af6756a.png');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-color:#090909;
+    background-attachment: fixed;
+    height: 800px;
+    width: 100%;
+}
